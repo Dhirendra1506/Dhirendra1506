@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+I am Dhirendra Kamble, a Blockchain Developer with a focus on creating cutting-edge blockchain applications. I bring a wealth of experience in HTML, CSS, SCSS, JavaScript, React, Node.js, and the MERN stack, combined with a strong proficiency in Solidity. My goal is to harness the power of these technologies to develop secure, efficient, and innovative blockchain solutions.
+
 - 🔭 I’m currently working on **Blockchain**
 
 - 🌱 I’m currently learning **solidity & rust**
